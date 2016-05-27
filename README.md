@@ -1,0 +1,2 @@
+# scambigood
+General Purpose Repo
